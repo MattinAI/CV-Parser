@@ -16,3 +16,10 @@ This AI agent extracts and categorizes skills from a CV based on predefined know
 - Identifies and highlights the most relevant skills
 - Synthesizes the most significant experiences
 - Produces a cohesive analysis of the professional profile
+
+## Usage
+
+1. Update the `pdf_path` variable in `main.py` with the path to your CV in PDF format
+2. Run the parser using:
+```bash
+crewai run
