@@ -1,0 +1,44 @@
+generate_cv_resume:
+    description: >
+        Analyze the following CV and create a professional summary that includes:
+        1. General professional profile (2-3 sentences)
+        2. Main areas of experience
+        3. Most notable achievements
+        4. Key skills
+
+        CV to analyze:
+        {cv_text}
+        
+        The summary should be concise but informative, highlighting the most relevant aspects of the professional.
+    expected_output: >
+        A professional summary of the candidate's most relevant skills and experiences.
+    agent: resume_agent
+    output_file: cv_summary.txt
+
+categorize_skills:
+    description: >
+        Analyze the CV and categorize all identified skills according to the following categories:
+        {categories}
+        
+        For each skill identified:
+        1. Assign it to the most appropriate category
+        2. Rate the expertise level from 1 to 5 where:
+           - 1: Basic knowledge
+           - 2: Working knowledge
+           - 3: Professional competency
+           - 4: Advanced expertise
+           - 5: Expert/Master level
+        
+        Consider factors like:
+        - Years of experience with the skill
+        - Complexity of projects where the skill was used
+        - Leadership or training roles related to the skill
+        - Certifications or formal education
+        
+        CV to analyze:
+        {cv_text}
+    expected_output: >
+        A structured categorization of skills with their respective expertise levels,
+        organized by the provided categories.
+    agent: skills_categorizer_agent
+    output_file: cv_summary.txt

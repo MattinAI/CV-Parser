@@ -1,0 +1,66 @@
+### Skills Categorization and Expertise Level Assignment
+
+**Programming Languages**
+1. Python - Level 4 (Advanced expertise)
+   - Used in automation testing and scripting with the Storm Test facility.
+   
+2. SQL - Level 3 (Professional competency)
+   - Usage in database querying and operations indicated by experience with MySQL.
+
+**Frameworks & Libraries**
+1. Atlassian Confluence - Level 3 (Professional competency)
+   - Utilized for documentation and updating installation guides in multi-screen solution setups.
+
+**Database Technologies**
+1. MySQL - Level 3 (Professional competency)
+   - Used as a primary database technology for CRM systems, indicating professional competency.
+
+**Cloud Platforms**
+- No specific cloud platform skills mentioned.
+
+**Soft Skills**
+1. Problem Solving - Level 4 (Advanced expertise)
+   - Consistent problem-solving required across various platforms and testing scenarios.
+
+2. Leadership - Level 4 (Advanced expertise)
+   - Leadership exhibited in managing teams, generating test plans, and coordinating testing efforts across departments.
+
+3. Multitasking - Level 4 (Advanced expertise)
+   - Demonstrated through handling multiple technology components and stakeholder coordination.
+
+4. Diligence - Level 4 (Advanced expertise)
+   - Shown through systematic setup of testing protocols and meticulous defect management.
+
+5. Entrepreneurship - Level 3 (Professional competency)
+   - Proven initiative in creating and maintaining operational testing labs and leading project segments.
+
+**Other Technical Skills**
+1. Windows Server - Level 3 (Professional competency)
+   - Competency in handling multiple server versions for varying test setups.
+
+2. Linux (CentOS) - Level 3 (Professional competency)
+   - Used for server management and testing environments, indicating professional use.
+
+3. Microsoft Test Manager - Level 4 (Advanced expertise)
+   - Central to his role in managing test cases and defects across projects.
+
+4. Virtual Box - Level 3 (Professional competency)
+   - Employed for setting up and maintaining virtual testing environments.
+
+5. Storm Test Developer Suite - Level 4 (Advanced expertise)
+   - Key tool for automation testing, significantly utilized for test case automation and configuration.
+
+6. Witbe - Level 3 (Professional competency)
+   - Used for automated testing, indicating significant use but lesser than core tools like Python or MS Test Manager.
+
+7. TestLink - Level 3 (Professional competency)
+   - Used for test management purposes, supporting his professional competency in test orchestration.
+
+8. Jira - Level 3 (Professional competency)
+   - Utilized for defect tracking and team coordination, central to his roles in multiple projects.
+
+### Certifications
+- ISTQB Foundation Level - Enhances professional competency in testing.
+- Cisco Certified Network Associate (CCNA) - Elevates understanding and competency in network setup and troubleshooting.
+
+These categorized skills and assigned levels reflect both the depth and breadth of Steeve Ruben’s technical and professional skills as demonstrated through his experiences and responsibilities across his career.

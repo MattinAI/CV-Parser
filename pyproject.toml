@@ -1,0 +1,23 @@
+[project]
+name = "cv_analysis_crewai"
+version = "0.1.0"
+description = "cv_analysis_crewai using crewAI"
+authors = [{ name = "Adrian Noya", email = "anoya@ikerlan.es" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.100.1,<1.0.0"
+]
+
+[project.scripts]
+cv_analysis_crewai = "cv_analysis_crewai.main:run"
+run_crew = "cv_analysis_crewai.main:run"
+train = "cv_analysis_crewai.main:train"
+replay = "cv_analysis_crewai.main:replay"
+test = "cv_analysis_crewai.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
